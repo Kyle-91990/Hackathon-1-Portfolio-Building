@@ -35,11 +35,3 @@ To view the portfolio locally, follow these steps:
    ```
 3. Open `index.html` in your web browser.
 
-## Deployment
-This portfolio can be deployed on platforms like GitHub Pages or Netlify. For GitHub Pages, you can enable GitHub Pages in the repository settings and select the `main` branch as the source.
-
-## Contribution
-Feel free to contribute to this project by submitting issues or pull requests. Your feedback and suggestions are welcome!
-
-## License
-This project is open-source and available under the MIT License.
